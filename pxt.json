@@ -1,5 +1,5 @@
 {
-    "name": "Castle Runner v0.98",
+    "name": "Castle Runner v0.99",
     "dependencies": {
         "device": "*",
         "animation": "*",
@@ -14,7 +14,7 @@
         "main.ts",
         "README.md"
     ],
-    "preferredEditor": "blocksprj",
+    "preferredEditor": "tsprj",
     "testFiles": [
         "test.ts"
     ]
