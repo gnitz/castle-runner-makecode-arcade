@@ -1,5 +1,6 @@
 {
-    "name": "Castle Runner v0.99",
+    "name": "Castle Runner v0.99.1",
+    "description": "",
     "dependencies": {
         "device": "*",
         "animation": "*",
@@ -8,14 +9,22 @@
         "light": "*",
         "storyboard": "*"
     },
-    "description": "",
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
     ],
-    "preferredEditor": "tsprj",
     "testFiles": [
         "test.ts"
-    ]
+    ],
+    "targetVersions": {
+        "target": "1.2.9",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
 }
